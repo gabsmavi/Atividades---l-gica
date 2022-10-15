@@ -65,26 +65,26 @@ programa
 		real v_Brancos, v_Nulos, v_Validos, total
 		real p_Nulos, p_Brancos, p_Validos
 		
-        escreva("Digite o numero de votos Brancos:\n")
-        leia(v_Brancos)
+        	escreva("Digite o numero de votos Brancos:\n")
+        	leia(v_Brancos)
         
-        escreva("Digite o numero de votos Nulos:\n")
-        leia(v_Nulos)
+        	escreva("Digite o numero de votos Nulos:\n")
+        	leia(v_Nulos)
         
-        escreva("Digite o numero de votos Validos:\n")
-        leia(v_Validos)
+        	escreva("Digite o numero de votos Validos:\n")
+        	leia(v_Validos)
         
-        total = v_Brancos + v_Nulos + v_Validos
+        	total = v_Brancos + v_Nulos + v_Validos
         
-        p_Nulos = v_Nulos / total * 100
+        	p_Nulos = v_Nulos / total * 100
         
-        p_Brancos = v_Brancos / total * 100
+        	p_Brancos = v_Brancos / total * 100
         
-        p_Validos = v_Validos / total * 100
+        	p_Validos = v_Validos / total * 100
         
-        escreva("Percente de Votos Brancos: ", p_Brancos, "\n")
-        escreva("Percente de Votos Nulos: ", p_Nulos, "\n")
-        escreva("Percente de Votos Validos: ", p_Validos, "\n")
+        	escreva("Percente de Votos Brancos: ", p_Brancos, "\n")
+        	escreva("Percente de Votos Nulos: ", p_Nulos, "\n")
+        	escreva("Percente de Votos Validos: ", p_Validos, "\n")
 	}
 }
 ~~~
