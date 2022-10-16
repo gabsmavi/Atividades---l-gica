@@ -1,7 +1,6 @@
 # Atividades aula 1:
 
 ## Entrada e saida de dados:
-#
 <h3>
 1°: Crie um algoritmo para calcular o IMC do usuário.
 IMC = peso / altura²
@@ -33,8 +32,6 @@ Dica: O total de eleitores será a soma de todos os votos
 
 #
 ## Condicionais:
-#
-
 <h3>
 1°: Solicite um número ao usuário e mostre se o número é positivo ou negativo. Se o numero for positivo mostre se ele é impar ou par.
 
