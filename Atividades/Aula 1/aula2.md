@@ -3,30 +3,41 @@
 ## Laços de Repetição:
 
 <h3>
-1°: Crie um algoritmo para calcular o IMC do usuário.
-IMC = peso / altura²
+1°: Faça um programa que receba um número e usando laços de repetição calcule e mostre a tabuada desse número. Usar tabela de multiplicação e divisão até o número 10.<br>
+ex.:<br>
+5 x 1 = 5 | 5 / 1 = 5 <br>  
+5 x 2 = 10 | 5 / 2 = 2,5
 
 <h3>
-2°: Transformar uma temperatura de Fahrenheit para Celsius.
-<h3>
-TC = (TF - 32) / 1,8
-<h3>
-TC: Temperatura em Celsius.
-<h3> 
-TF: Temperatura em Fahrenheit.
+2°: Faça um programa que verifique e mostre os números entre 1.000 e 2.000 que divididos por 11, produzam o resto igual a 2.
 
 <h3>
-3°: Escreva um algoritmo para ler as dimensões de um retângulo (largura e comprimento), calcular e escrever a área do retângulo.
-<h3>
-retangulo = largura * comprimento
+3°: Escreva um programa que lê o tamanho do lado de um quadrado e imprime um quadrado daquele tamanho com asteriscos. Seu programa deve usar laços de repetição e funcionar para quadrados com lados de todos os tamanhos entre 1 e 20.<br>
+ex.: lado = 2<br>
+**<br>
+**
+
 
 <h3>
-4°: Escreva um algoritmo para ler o número total de eleitores de um município, o número de votos brancos, nulos e válidos. Calcular e escrever o percentual que cada um representa em relação ao total de eleitores.
-<h3>
-Dica: O total de eleitores será a soma de todos os votos
+4°: Faça um programa que receba várias idades e que calcule e mostre a média das idades digitadas. Finalize digitando a idade igual a zero.
 
 <h3>
-5°: Escreva um algoritmo que armazene o valor 10 em uma variável A e o valor 20 em uma variável B. A seguir (utilizando apenas atribuições entre variáveis) troque os seus conteúdos fazendo com que o valor que está em A passe para B e vice-versa. Ao final, escrever os valores que ficaram armazenados nas variáveis.
+5°: Uma loja tem uma política de descontos de acordo com o valor da compra do cliente. Os descontos começam acima dos R$500. A cada 100 reais acima dos R$500,00 o cliente ganha 1% de desconto cumulativo até 25%.              
+Faça um programa que exiba essa tabela de descontos no seguinte formato:  <br>                                
+Valor da compra – porcentagem de desconto – valor final<br>
+ex.:<br>
+500R$ - 1% - 495R$<br>
+600R$ - 2% - 588R$
 
 <h3>
-6°: O custo de um carro novo ao consumidor é a soma do custo de fábrica com a porcentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que o percentual do distribuidor seja de 28% e os impostos de 45%, escreva um algoritmo para ler o custo de fábrica de um carro, calcular e mostrar o custo final ao consumidor. 
+6°: Em uma eleição presidencial existem quatro candidatos. Os votos são informados por meio de código. Os códigos utilizados são:<br> 
+1, 2, 3, 4 - Votos para os respectivos candidatos;<br>
+5 - Voto nulo;<br>
+6 - Voto em branco.<br><br>
+Faça um programa que calcule e mostre:<br>
+O total de votos para cada candidato;<br>
+O total de votos nulos;<br>
+O total de votos em branco;<br>
+A percentagem de votos nulos sobre o total de votos;<br>
+A porcentagem de votos em branco sobre o total de votos.<br><br>
+Para finalizar o conjunto de votos, tem-se o valor zero.  
