@@ -62,5 +62,5 @@ E no final escrever o nome do vencedor. Caso não haja vencedor deverá ser impr
 Faça um algoritmo que leia: o número do empregado (código), o ano de seu nascimento e o ano de seu ingresso na empresa.
  O programa deverá escrever a idade e o tempo de trabalho do empregado e a mensagem 'Requerer aposentadoria' ou 'Não requerer'.
 
- ##Respostas:
+ ## Respostas:\n
  https://github.com/GetulioLT/Atividades---l-gica/blob/main/Resolu%C3%A7%C3%A3o%20de%20Atividades/Aula%201.md
