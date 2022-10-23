@@ -111,3 +111,26 @@ programa
 	}
 }
 ~~~
+## Questão 6:
+~~~js
+programa 
+{
+	funcao inicio()
+	{
+		real fab, porDis, porImp, total
+		
+		escreva("Digite o valor de fabrica do carro: ")
+		leia(fab)
+		
+		porDis = fab * 28 / 100
+		porImp = fab * 45 / 100
+		
+		total = fab + porDis + porImp
+		
+		escreva("Valor de fabrica: ", fab, "\n")
+		escreva("Valor de Distribuidor: ", porDis, "\n")
+		escreva("Valor de Impostos: ", porImp, "\n")
+		escreva("Valor total do carro: ", total)
+	}
+}
+~~~
