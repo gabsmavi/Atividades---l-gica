@@ -134,3 +134,89 @@ programa
 	}
 }
 ~~~
+# Condicionais:
+## Questão 1:
+~~~js
+programa 
+{
+	funcao inicio()
+	{
+		inteiro num
+		
+		escreva("Digite um numero qualquer inteiro: ")
+		leia(num)
+		
+		se(num > 0)
+		{
+		    escreva("Esse numero é positivo e ")
+		    se(num % 2 == 0)
+		    {
+		        escreva("par")
+		    }
+		    senao
+		    {
+		        escreva("impar")
+		    }
+		}
+		senao
+		{
+		    escreva("Esse numero é negativo")
+		}
+	}
+}
+~~~
+## Questão 2:
+~~~js
+programa 
+{
+	funcao inicio()
+	{
+		real temp
+		logico cancela
+		
+		escreva("Digite a temperatura da pessoa: ")
+		leia(temp)
+		
+		se(temp <= 37)
+		{
+		    cancela = verdadeiro
+		}
+		senao
+		{
+		    cancela = falso
+		}
+		
+		escreva(cancela)
+	}
+}
+~~~
+## Questão 3:
+~~~js
+programa 
+{
+	funcao inicio()
+	{
+		real indice
+		
+		escreva("Digite o valor do indice de poluição: ")
+		leia(indice)
+		
+		se(indice >= 0.05 e indice < 0.25)
+		{
+		    escreva("Aceitavél")
+		}
+		senao se(indice <= 0.3)
+		{
+		    escreva("1° grupo, atividades suspensas")
+		}
+		senao se(indice <= 0.04)
+		{
+		    escreva("1° e 2° grupo, atividades suspensas")
+		}
+		senao se(indice <= 0.05)
+		{
+		    escreva("Todos os grupo, atividades suspensas")
+		}
+	}
+}
+~~~
