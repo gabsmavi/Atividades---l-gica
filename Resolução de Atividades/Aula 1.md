@@ -88,3 +88,26 @@ programa
 	}
 }
 ~~~
+## Questão 5:
+~~~js
+programa 
+{
+	funcao inicio()
+	{
+		inteiro a, b, c
+		
+		a = 10
+		b = 20
+		
+		escreva(a, "\n")
+		escreva(b, "\n")
+		
+		c = a
+		a = b
+		b = c
+		
+		escreva(a, "\n")
+		escreva(b, "\n")
+	}
+}
+~~~
