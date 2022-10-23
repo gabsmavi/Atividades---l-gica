@@ -220,3 +220,67 @@ programa
 	}
 }
 ~~~
+## Questão 4:
+~~~js
+programa 
+{
+	funcao inicio()
+	{
+		cadeia time1, time2
+		inteiro gols1, gols2
+		
+		escreva("Digite o nome do time 1: ")
+		leia(time1)
+		escreva("Digite o nome do time 2: ")
+		leia(time2)
+		
+		escreva("Digite o numedo de gol do ", time1, ": ")
+		leia(gols1)
+		escreva("Digite o numedo de gol do ", time2, ": ")
+		leia(gols2)
+		
+		se(gols1 > gols2)
+		{
+		    escreva(time1, " venceu o jogo")
+		}
+		senao se(gols1 < gols2)
+		{
+		    escreva(time2, " venceu o jogo")
+		}
+		senao
+		{
+		    escreva("Jogo saiu em empate")
+		}
+	}
+}
+~~~
+## Questão 5:
+~~~js
+programa 
+{
+	funcao inicio()
+	{
+		real prod1, prod2, prod3
+		
+		escreva("Digite o valor do primeiro produto: ")
+		leia(prod1)
+		escreva("Digite o valor do segundo produto: ")
+		leia(prod2)
+		escreva("Digite o valor do terceiro produto: ")
+		leia(prod3)
+		
+		se(prod1 < prod2 e prod1 < prod3)
+		{
+		    escreva("Comprar o primeiro")
+		}
+		senao se(prod2 < prod3 e prod2 < prod1)
+		{
+		    escreva("Comprar o segundo")
+		}
+		senao
+		{
+		     escreva("Comprar o terceiro")
+		}
+	}
+}
+~~~
