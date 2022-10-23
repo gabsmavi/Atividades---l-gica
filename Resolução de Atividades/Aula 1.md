@@ -284,3 +284,33 @@ programa
 	}
 }
 ~~~
+## Questão 6:
+~~~js
+programa 
+{
+	funcao inicio()
+	{
+		inteiro num_empre, ano_nasci, ano_ingre
+		inteiro idade, tp_tra
+		
+		escreva("Digite o codigo do empregado: ")
+		leia(num_empre)
+		escreva("Digite o ano de nascimento do empregado: ")
+		leia(ano_nasci)
+		escreva("Digite o ano de ingresso do empregado: ")
+		leia(ano_ingre)
+		
+		idade = 2022 - ano_nasci
+		tp_tra = 2022 - ano_ingre
+		
+		se(idade >= 65 ou tp_tra >= 30 ou (idade >= 60 e tp_tra >= 25))
+		{
+		    escreva("O empregado de codigo: ", num_empre, " com ", idade, " anos e ", tp_tra, " de empresa pode requerer aposentadoria")
+		}
+		senao
+		{
+		    escreva("Não pode requerer a aposentadoria")
+		}
+	}
+}
+~~~
