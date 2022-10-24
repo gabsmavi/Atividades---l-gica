@@ -10,3 +10,7 @@
 
 ## Aula 2:
 ### https://github.com/GetulioLT/Atividades---l-gica/blob/main/Atividades/aula2.md
+<br><br>
+
+## Aula 3:
+### https://github.com/GetulioLT/Atividades---l-gica/blob/main/Atividades/aula2.md
