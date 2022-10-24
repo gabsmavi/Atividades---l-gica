@@ -13,4 +13,4 @@
 <br><br>
 
 ## Aula 3:
-### https://github.com/GetulioLT/Atividades---l-gica/blob/main/Atividades/aula2.md
+### https://github.com/GetulioLT/Atividades---l-gica/blob/main/Atividades/aula1.md
