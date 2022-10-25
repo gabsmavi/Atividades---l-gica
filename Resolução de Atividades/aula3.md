@@ -42,6 +42,24 @@ f'Votos Validos: {pValidos}' +
 f'Votos Brancos: {pBrancos}' +
 f'Votos Nulos: {pNulos}')
 ~~~
+## Questão 5:
+~~~python
+a, b = 10, 20
+
+print(a, b)
+
+a, b = b, a
+
+print(a, b)
+~~~
+## Questão 6:
+~~~python
+valorFabrica = float(input('Digite o valor de Fabrica do carro: '))
+
+total = valorFabrica + (valorFabrica * 28 / 100) + (valorFabrica * 45 / 100)
+
+print(f'O valor do carro no final ficou num total de: R${total}')
+~~~
 
 # Condicionais:
 ## Questão 1:
