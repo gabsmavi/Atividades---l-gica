@@ -64,7 +64,7 @@ print(f'O valor do carro no final ficou num total de: R${total}')
 # Condicionais:
 ## Questão 1:
 ~~~py
-num = float(input('Digite um numero qualquer Real: ')
+num = float(input('Digite um numero qualquer Real: '))
 
 if num > 0:
     if num % 2 == 0:
