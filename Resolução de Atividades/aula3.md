@@ -64,7 +64,7 @@ print(f'O valor do carro no final ficou num total de: R${total}')
 # Condicionais:
 ## Questão 1:
 ~~~py
-num = float(input('Digite um numero qualquer Real')
+num = float(input('Digite um numero qualquer Real: ')
 
 if num > 0:
     if num % 2 == 0:
@@ -127,16 +127,18 @@ elif precoB > precoC and precoB > precoA:
 else:
     print(f'O valor de {precoC}R$ deve ser comprado')
 ~~~
-## Questão 5:
+## Questão 6:
 ~~~py
-precoA = float(input('Digite o valor 1: '))
-precoB = float(input('Digite o valor 2: '))
-precoC = float(input('Digite o valor 3: '))
+num_empre = int(input("Digite o codigo do empregado: "))
+ano_nasci = int(input("Digite o ano de nascimento do empregado: "))
+ano_ingre = int(input("Digite o ano de ingresso do empregado: "))
 
-if precoA > precoB and precoA > precoC:
-    print(f'O valor de {precoA}R$ deve ser comprado')
-elif precoB > precoC and precoB > precoA:
-    print(f'O valor de {precoB}R$ deve ser comprado')
+idade = 2022 - ano_nasci
+tp_tra = 2022 - ano_ingre
+		
+if idade >= 65 ou tp_tra >= 30 ou (idade >= 60 e tp_tra >= 25):
+    print(f"O empregado de codigo: {num_empre} com {idade} anos e {tp_tra} de empresa pode requerer aposentadoria")
 else:
-    print(f'O valor de {precoC}R$ deve ser comprado')
+    print("Não pode requerer a aposentadoria")
+
 ~~~
