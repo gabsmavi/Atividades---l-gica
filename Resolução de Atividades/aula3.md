@@ -86,8 +86,8 @@ else:
     passagem = False
 
 print(f'Após a verificação de acordo com o resultado sendo ele:\n'
-      f' True para passagem liberada e \n'
-      f'False para barrrado: '
+      f'True para passagem liberada e \n'
+      f'False para barrrado:\n'
       f'{passagem}')
 ~~~
 ## Questão 3:
