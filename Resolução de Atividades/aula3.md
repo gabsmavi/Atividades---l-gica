@@ -85,7 +85,10 @@ if temp <= 37:
 else:
     passagem = False
 
-print(f'Após a verificação de acordo com o resultado sendo ele True para passagem liberada e False para barrrado: {passagem}')
+print(f'Após a verificação de acordo com o resultado sendo ele:\n'
+      f' True para passagem liberada e \n'
+      f'False para barrrado: '
+      f'{passagem}')
 ~~~
 ## Questão 3:
 ~~~py
