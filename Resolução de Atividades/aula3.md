@@ -139,10 +139,9 @@ ano_ingre = int(input("Digite o ano de ingresso do empregado: "))
 
 idade = 2022 - ano_nasci
 tp_tra = 2022 - ano_ingre
-		
-if idade >= 65 ou tp_tra >= 30 ou (idade >= 60 e tp_tra >= 25):
+
+if idade >= 65 or tp_tra >= 30 or (idade >= 60 and tp_tra >= 25):
     print(f"O empregado de codigo: {num_empre} com {idade} anos e {tp_tra} de empresa pode requerer aposentadoria")
 else:
     print("Não pode requerer a aposentadoria")
-
 ~~~
