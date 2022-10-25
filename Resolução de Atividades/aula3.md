@@ -37,9 +37,9 @@ pValidos = vValidos / total * 100
 pBrancos = vBrancos / total * 100
 pNulos = vNulos / total * 100
 
-print(f'O percente de votos \n' +
-f'Votos Validos: {pValidos}' +
-f'Votos Brancos: {pBrancos}' +
+print(f'O percente de votos:\n' +
+f'Votos Validos: {pValidos}\n' +
+f'Votos Brancos: {pBrancos}\n' +
 f'Votos Nulos: {pNulos}')
 ~~~
 ## Questão 5:
