@@ -112,9 +112,9 @@ golsA = int(input(f'Digite os gols do time {timeA}: '))
 golsB = int(input(f'Digite os gols do time {timeB}: '))
 
 if golsA > golsB:
-    print(f'O time {timaA} venceu o time {timeB}')
+    print(f'O time {timeA} venceu o time {timeB}')
 elif golsA < golsB:
-    print(f'O time {timaB} venceu o time {timeA}')
+    print(f'O time {timeB} venceu o time {timeA}')
 else:
     print('Os times empataram')
 ~~~
