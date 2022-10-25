@@ -205,15 +205,15 @@ programa
 		{
 		    escreva("Aceitavél")
 		}
-		senao se(indice <= 0.3)
+		senao se(indice <= 0.04)
 		{
 		    escreva("1° grupo, atividades suspensas")
 		}
-		senao se(indice <= 0.04)
+		senao se(indice <= 0.03)
 		{
 		    escreva("1° e 2° grupo, atividades suspensas")
 		}
-		senao se(indice <= 0.05)
+		senao se(indice > 0.05)
 		{
 		    escreva("Todos os grupo, atividades suspensas")
 		}

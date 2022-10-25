@@ -37,7 +37,7 @@ Dica: O total de eleitores será a soma de todos os votos
 #
 ## Condicionais:
 <h3>
-1°: Solicite um número ao usuário e mostre se o número é positivo ou negativo. Se o numero for positivo mostre se ele é impar ou par.
+1°: Solicite um número ao usuário e mostre se o número é positivo, negativo ou se ele é 0. Se o numero for positivo mostre se ele é impar ou par, se for negativo mostre o numero ao quadrado.
 <br><br>
 
 <h3>
