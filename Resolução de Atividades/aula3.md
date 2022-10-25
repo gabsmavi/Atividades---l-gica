@@ -93,14 +93,15 @@ print(f'Após a verificação de acordo com o resultado sendo ele:\n'
 ## Questão 3:
 ~~~py
 indice = float(input('Digite o valor do indice de poluição: '))
-if indice >= 0.05 e indice < 0.25:
+if 0.05 <= indice < 0.25:  # indice >= 0.05 and indice < 0.25
     print('Aceitavél')
 elif indice <= 0.04:
-	print('1° grupo, atividades suspensas')
+    print('1° grupo, atividades suspensas')
 elif indice <= 0.05:
     print('1° e 2° grupo, atividades suspensas')
 elif indice > 0.05:
     print('Todos os grupo, atividades suspensas')
+
 ~~~
 ## Questão 4:
 ~~~py
