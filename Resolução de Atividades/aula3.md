@@ -124,9 +124,9 @@ precoA = float(input('Digite o valor 1: '))
 precoB = float(input('Digite o valor 2: '))
 precoC = float(input('Digite o valor 3: '))
 
-if precoA > precoB and precoA > precoC:
+if precoA < precoB and precoA < precoC:
     print(f'O valor de {precoA}R$ deve ser comprado')
-elif precoB > precoC and precoB > precoA:
+elif precoB < precoC and precoB < precoA:
     print(f'O valor de {precoB}R$ deve ser comprado')
 else:
     print(f'O valor de {precoC}R$ deve ser comprado')
