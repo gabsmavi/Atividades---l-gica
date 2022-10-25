@@ -12,7 +12,7 @@
 ### https://github.com/GetulioLT/Atividades---l-gica/blob/main/Atividades/aula2.md
 
 ## Respostas: <br>
-### https://github.com/GetulioLT/Atividades---l-gica/blob/main/Resolu%C3%A7%C3%A3o%20de%20Atividades/Aula2.md
+### https://github.com/GetulioLT/Atividades---l-gica/blob/main/Resolu%C3%A7%C3%A3o%20de%20Atividades/aula2.md
 <br><br>
 
 
@@ -20,5 +20,5 @@
 ### https://github.com/GetulioLT/Atividades---l-gica/blob/main/Atividades/aula3.md
 
 ## Respostas: <br>
-### https://github.com/GetulioLT/Atividades---l-gica/blob/main/Resolu%C3%A7%C3%A3o%20de%20Atividades/Aula3.md
+### https://github.com/GetulioLT/Atividades---l-gica/blob/main/Resolu%C3%A7%C3%A3o%20de%20Atividades/aula3.md
 <br><br>
