@@ -22,3 +22,11 @@
 ## Respostas: <br>
 ### https://github.com/GetulioLT/Atividades---l-gica/blob/main/Resolu%C3%A7%C3%A3o%20de%20Atividades/aula3.md
 <br><br>
+
+
+## Aula 4:
+### https://github.com/GetulioLT/Atividades---l-gica/blob/main/Atividades/aula4.md
+
+## Respostas: <br>
+### 
+<br><br>
