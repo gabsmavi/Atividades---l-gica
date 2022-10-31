@@ -65,3 +65,70 @@ programa
   }
 }
 ~~~
+## Questão 3:
+~~~js
+programa 
+{
+  funcao inicio() 
+  {
+    
+    inteiro tam
+
+    escreva("Digite o tamanho do quadrado: ")
+    leia(tam)
+
+    para(inteiro i = 0; i < tam; i++)
+    {
+      para(inteiro j = 0; j < tam; j++)
+      {
+        escreva("* ")
+      }
+      escreva("\n")
+    }
+
+    escreva("\n==========================================\n\n")
+
+    inteiro x = 0, y = 0
+
+    enquanto(x < tam)
+    {
+      enquanto(y < tam)
+      {
+        escreva("* ")
+        y++
+      }
+      escreva("\n")
+      y = 0
+      x++
+    }
+
+  }
+}
+~~~
+## Questão 4:
+~~~js
+programa 
+{
+  funcao inicio() 
+  {
+    
+    real idade = 1, contagem = 0, acumulador = 0, media
+
+    enquanto(idade != 0)
+    {
+      escreva("Digite a idade: ")
+      leia(idade)
+
+      se(idade != 0)
+      {
+        contagem++
+        acumulador = acumulador + idade
+      }
+    }
+
+    media = acumulador / contagem
+
+    escreva("A media das idade é igual a: ", media)
+  }
+}
+~~~
