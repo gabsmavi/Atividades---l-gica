@@ -28,5 +28,5 @@
 ### https://github.com/GetulioLT/Atividades---l-gica/blob/main/Atividades/aula4.md
 
 ## Respostas: <br>
-### 
+### https://github.com/GetulioLT/Atividades---l-gica/blob/main/Resolução%20de%20Atividades/aula4.md
 <br><br>
