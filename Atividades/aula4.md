@@ -26,5 +26,11 @@
 <br><br>
 
 <h3>
-Desafio: Faça um programa que leia três valores (A, B, C) e mostre-os na ordem lida.  Em seguida, mostre-os em ordem crescente e decrescente.
+Desafio: Faça um programa que recebe a altura de um triangulo em um número inteiro e imprima-o utilizando asteriscos. Veja o Exemplo:<br>
+Entrada: 5<br>
+*<br>
+**<br>
+***<br>
+****<br>
+*****
 <br><br>
