@@ -22,8 +22,8 @@ ex.: lado = 2<br>
 4°: Faça um programa que receba várias idades e que calcule e mostre a média das idades digitadas. Finalize digitando a idade igual a zero.
 
 <h3>
-5°: Uma loja tem uma política de descontos de acordo com o valor da compra do cliente. Os descontos começam acima dos R$500. A cada 100 reais acima dos R$500,00 o cliente ganha 1% de desconto cumulativo até 25%.              
-Faça um programa que exiba essa tabela de descontos no seguinte formato:  <br>                                
+5°: Uma loja tem uma política de descontos de acordo com o valor da compra do cliente. Os descontos começam acima dos R$500. A cada 100 reais acima dos R$500,00 o cliente ganha 1% de desconto cumulativo até 25%.
+Faça um programa que exiba essa tabela de descontos no seguinte formato:  <br>
 Valor da compra – porcentagem de desconto – valor final<br>
 ex.:<br>
 500R$ - 1% - 495R$<br>

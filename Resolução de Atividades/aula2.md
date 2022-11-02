@@ -132,3 +132,107 @@ programa
   }
 }
 ~~~
+## Questão 5:
+~~~js
+programa 
+{
+  funcao inicio() 
+  {
+    real valor_compra = 500.0
+    real valor_final, desconto
+
+    para(inteiro i = 1; i <= 25; i++)
+    {
+      desconto = valor_compra * i / 100
+
+      valor_final = valor_compra - desconto
+
+      escreva(valor_compra, "R$ - ", i, "% - ", valor_final, "R$\n")
+
+      valor_compra += 100
+    }
+
+    escreva("\n============================================\n\n")
+
+    inteiro contador = 1
+
+    valor_compra = 500.0
+
+    enquanto(contador <= 25)
+    {
+      desconto = valor_compra * contador / 100
+
+      valor_final = valor_compra - desconto
+      
+      escreva(valor_compra, "R$ - ", contador, "% - ", valor_final, "R$\n")
+
+      valor_compra += 100
+      contador++
+    }
+  }
+}
+~~~
+## Questão 6:
+~~~js
+programa 
+{
+  funcao inicio() 
+  {
+    
+    real cad1 = 0, cad2 = 0, cad3 = 0, cad4 = 0, nulo = 0, branco = 0, total
+    inteiro voto = 1
+
+    enquanto(voto != 0)
+    {
+
+      escreva("Eleições 2022:\nDigite os seguintes numeros para cada operações:\n")
+      escreva("1 - eleitor 1\n2 - eleitor 2\n3 - eleitor 3\n4 - eleitor 4\n")
+      escreva("5 - Nulo\n6 - Branco\n0 - Finalizar\n")
+      leia(voto)
+
+      se(voto != 0)
+      {
+        
+        se(voto == 1)
+        {
+          cad1++
+        }
+        senao se(voto == 2)
+        {
+          cad2++
+        }
+        senao se(voto == 3)
+        {
+          cad3++
+        }
+        senao se(voto == 4)
+        {
+          cad4++
+        }
+        senao se(voto == 5)
+        {
+          nulo++
+        }
+        senao
+        {
+          branco++
+        }
+
+      }
+    }
+
+    total = cad1 + cad2 + cad3 + cad4 + nulo + branco
+
+    escreva("Final da Eleioção. Apurado de Votos:\n")
+    escreva("cadidato 1: ", cad1, "\n")
+    escreva("cadidato 2: ", cad2, "\n")
+    escreva("cadidato 3: ", cad3, "\n")
+    escreva("cadidato 4: ", cad4, "\n")
+    escreva("nulo: ", nulo, "\n")
+    escreva("branco: ", branco, "\n")
+    escreva("percentagem nulo: ", (nulo / total) * 100, "%\n")
+    escreva("percentagem branco: ", (branco / total) * 100, "%\n")
+
+  }
+}
+~~~
