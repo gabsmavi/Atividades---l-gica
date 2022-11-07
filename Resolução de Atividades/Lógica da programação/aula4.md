@@ -183,3 +183,8 @@ while x < tam:
     y = 0
     x += 1
 ~~~
+
+## Atividades: <br>
+https://github.com/GetulioLT/Atividades---l-gica/blob/main/Guias/L%C3%B3gica%20da%20Programa%C3%A7%C3%A3o.md
+## Menu:
+https://github.com/GetulioLT/Atividades---l-gica

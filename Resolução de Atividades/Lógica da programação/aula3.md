@@ -145,3 +145,8 @@ if idade >= 65 or tp_tra >= 30 or (idade >= 60 and tp_tra >= 25):
 else:
     print("Não pode requerer a aposentadoria")
 ~~~
+
+## Atividades: <br>
+https://github.com/GetulioLT/Atividades---l-gica/blob/main/Guias/L%C3%B3gica%20da%20Programa%C3%A7%C3%A3o.md
+## Menu:
+https://github.com/GetulioLT/Atividades---l-gica
