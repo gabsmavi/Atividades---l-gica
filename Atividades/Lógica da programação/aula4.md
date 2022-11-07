@@ -14,7 +14,7 @@
 <br><br>
 
 <h3>
-4°: Faça um programa que receba várias notas e que calcule e mostre a média das notas digitadas. Finalize digitando a idade igual a zero.
+4°: Faça um programa que receba várias notas e que calcule e mostre a média das notas digitadas. Finalize digitando a nota igual a zero.
 <br><br>
 
 <h3>
