@@ -1,4 +1,4 @@
-# Atividades Lógica da programação Infinity school:
+# Atividades Lógica da programação:
 
 ## Aula 1:
 ### https://github.com/GetulioLT/Atividades---l-gica/blob/main/Atividades/aula1.md
