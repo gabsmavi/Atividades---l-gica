@@ -40,4 +40,11 @@ O total de votos nulos;<br>
 O total de votos em branco;<br>
 A percentagem de votos nulos sobre o total de votos;<br>
 A porcentagem de votos em branco sobre o total de votos.<br><br>
-Para finalizar o conjunto de votos, tem-se o valor zero.  
+Para finalizar o conjunto de votos, tem-se o valor zero.
+
+## Respostas: <br>
+https://github.com/GetulioLT/Atividades---l-gica/blob/main/Resolu%C3%A7%C3%A3o%20de%20Atividades/L%C3%B3gica%20da%20programa%C3%A7%C3%A3o/aula2.md
+## Atividades lógica: <br>
+https://github.com/GetulioLT/Atividades---l-gica/tree/main/Atividades/L%C3%B3gica%20da%20programa%C3%A7%C3%A3o
+## Menu:
+https://github.com/GetulioLT/Atividades---l-gica

@@ -34,3 +34,10 @@ Entrada: 5<br>
 ****<br>
 *****
 <br><br>
+
+## Respostas: <br>
+https://github.com/GetulioLT/Atividades---l-gica/blob/main/Resolu%C3%A7%C3%A3o%20de%20Atividades/L%C3%B3gica%20da%20programa%C3%A7%C3%A3o/aula4.md
+## Atividades lógica: <br>
+https://github.com/GetulioLT/Atividades---l-gica/tree/main/Atividades/L%C3%B3gica%20da%20programa%C3%A7%C3%A3o
+## Menu:
+https://github.com/GetulioLT/Atividades---l-gica
