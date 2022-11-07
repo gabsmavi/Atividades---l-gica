@@ -74,6 +74,6 @@ Faça um algoritmo que leia: o número do empregado (código), o ano de seu nasc
 ## Respostas: <br>
 https://github.com/GetulioLT/Atividades---l-gica/blob/main/Resolução%20de%20Atividades/aula3.md
  ## Atividades lógica: <br>
-https://github.com/GetulioLT/Atividades---l-gica/tree/main/Atividades/L%C3%B3gica%20da%20programa%C3%A7%C3%A3o
+https://github.com/GetulioLT/Atividades---l-gica/blob/main/Guias/L%C3%B3gica%20da%20Programa%C3%A7%C3%A3o.md
 ## Menu:
 https://github.com/GetulioLT/Atividades---l-gica
