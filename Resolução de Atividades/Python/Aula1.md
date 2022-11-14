@@ -67,3 +67,8 @@ print("Aprovado com Distinção" if media == 10
 else "Aprovado" if media >= 7
 else "Reprovado")
 ~~~
+
+## Atividades: <br>
+https://github.com/GetulioLT/Atividades---l-gica/blob/main/Guias/Python.md
+## Menu:
+https://github.com/GetulioLT/Atividades---l-gica
