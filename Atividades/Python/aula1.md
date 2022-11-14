@@ -39,7 +39,7 @@ Escreva um algoritmo que leia o número de litros vendidos, o tipo de combustív
 <br><br>
 
 ## Respostas: <br>
-https://github.com/GetulioLT/Atividades---l-gica/blob/main/Resolu%C3%A7%C3%A3o%20de%20Atividades/L%C3%B3gica%20da%20programa%C3%A7%C3%A3o/aula4.md
+https://github.com/GetulioLT/Atividades---l-gica/blob/main/Resolução%20de%20Atividades/Python/Aula1.md
 ## Atividades lógica: <br>
 https://github.com/GetulioLT/Atividades---l-gica/blob/main/Guias/L%C3%B3gica%20da%20Programa%C3%A7%C3%A3o.md
 ## Menu:
