@@ -30,7 +30,7 @@ desafio: Faça um programa que leia um valor n, inteiro e positivo, calcule e mo
 
 
 ## Respostas: <br>
-https://github.com/GetulioLT/Atividades---l-gica/blob/main/Resolução%20de%20Atividades/Python/Aula1.md
+https://github.com/GetulioLT/Atividades---l-gica/blob/main/Resolução%20de%20Atividades/Python/Aula2.md
 ## Atividades lógica: <br>
 https://github.com/GetulioLT/Atividades---l-gica/blob/main/Guias/Python.md
 ## Menu:
