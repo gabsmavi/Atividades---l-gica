@@ -1,4 +1,4 @@
-# Entrada e Saída de dados:
+# Repetição:
 ## Questão 1:
 ~~~js
 programa 

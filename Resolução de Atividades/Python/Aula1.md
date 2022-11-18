@@ -1,4 +1,4 @@
-# Entrada e Saída de dados:
+# Condicionais:
 ## Questão 1:
 ~~~py
 num1 = float(input("Digite o primeiro numero: "))
