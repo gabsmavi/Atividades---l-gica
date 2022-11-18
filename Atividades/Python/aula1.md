@@ -35,6 +35,9 @@ Acima de 20 litros: Desconto de 5% por litro 99.<br><br>
 Gasolina:<br>
 Até 20 litros: desconto de 4% por litro<br>
 Acima de 20 litros, desconto de 6% por litro<br><br>
+Valores dos Combustivel:<br>
+Alcool: R$ 5,40<br>
+Gasolina: R$ 4,70<br>
 Escreva um algoritmo que leia o número de litros vendidos, o tipo de combustível (codificado da seguinte forma: A-álcool. G-gasolina), calcule e imprima o valor a ser pago pelo cliente.  
 <br><br>
 

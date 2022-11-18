@@ -115,6 +115,55 @@ print("Nota Conceito A" if media >= 9 and media <= 10 else
 "Nota Conceito D" if media >= 4 else
 "Nota Conceito E")
 ~~~
+## Desafio:
+~~~py
+nota1 = float(input("Digite a primeira nota: "))
+nota2 = float(input("Digite a segunda nota: "))
+
+media = (nota1 + nota2) / 2
+
+if media >= 9 and media <= 10:
+    print("Nota Conceito A")
+elif media >= 7.5: # Não é preciso colocar media < 9, pois pela primeira estrutura já se sabe que será menor que 9
+    print("Nota Conceito B")
+elif media >= 6:
+    print("Nota Conceito C")
+elif media >= 4:
+    print("Nota Conceito D")
+else:
+    print("Nota Conceito E")
+
+
+print("\n===========================================\n")
+
+print("Nota Conceito A" if media >= 9 and media <= 10 else
+"Nota Conceito B" if media >= 7.5 else
+"Nota Conceito C" if media >= 6 else
+"Nota Conceito D" if media >= 4 else
+"Nota Conceito E")combustivel = input("Digite A para alcool e G para gasolina: ")
+litros = float(input("Digte a quantidade de combustivel: "))
+
+if combustivel.lower() == "a":
+    valor = litros * 5.40
+
+    if litros <= 20:
+        desconto = valor * 3 / 100
+    else:
+        desconto = valor * 4 / 100
+
+    valor_final = valor - desconto
+    print(f"O valor a pagar será: R${valor_final:.2f}")
+else:
+    valor = litros * 4.70
+
+    if litros <= 20:
+        desconto = valor * 4 / 100
+    else:
+        desconto = valor * 6 / 100
+
+    valor_final = valor - desconto
+    print(f"O valor a pagar será: R${valor_final:.2f}")
+~~~
 
 ## Atividades: <br>
 https://github.com/GetulioLT/Atividades---l-gica/blob/main/Guias/Python.md
