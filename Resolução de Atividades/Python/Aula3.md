@@ -1,18 +1,34 @@
-# Repetição:
+# Listas:
 ## Questão 1:
 ~~~py
-for i in range(1000, 2001):
-    if i % 11 == 2:
-        print(i)
+lista_numerica = list()
 
-print("\n=================================\n")
+for i in range(12):
+    numero = int(input("Digite um numero qualquer: "))
+    lista_numerica.append(numero)
 
-contagem = 1000
+print(lista_numerica)
 
-while contagem <= 2000:
-    if contagem % 11 == 2:
-        print(contagem)
-    contagem += 1
+x = int(input("Digite uma posição de 0 a 11: "))
+y = int(input("Digite outro posição de 0 11: "))
+
+soma = lista_numerica[x] + lista_numerica[y]
+
+print(f"A soma das duas posições é: {soma}")
+~~~
+## Questão 2:
+~~~py
+lista_impares = list()
+
+while True:
+    num = int(input("Digite um numero qualquer: "))
+
+    if num % 2 != 0:
+        lista_impares.append(num)
+
+        if len(lista_impares) == 10:
+            print(lista_impares)
+            break
 ~~~
 
 https://github.com/GetulioLT/Atividades---l-gica/blob/main/Guias/Python.md
