@@ -14,7 +14,7 @@
 <h3>
 6°: Leia uma lista contendo letras de uma frase inclusive os espaços em branco. Retirar os espaços em branco do lista e depois escreve-los.<br><br>
 <h3>
-Desafio: Leia 3 listas com 9 numeros e crie outro com o 1º terço do primeiro, o segundo 3º do segundo e o ultimo terço do 3º. Escrever o vetor resultante ao final.<br><br>
+Desafio: Leia 3 listas com 9 numeros e crie outro com o 1º terço do primeiro, o 2° terço do segundo e o ultimo terço do terceiro. Escrever a lista resultante ao final.<br><br>
 
 
 ## Respostas: <br>

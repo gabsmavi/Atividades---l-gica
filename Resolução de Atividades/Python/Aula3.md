@@ -74,6 +74,58 @@ else:
     if x not in lista_numerica:
         print("Numero não encontrado")
 ~~~
+## Questão 5:
+~~~py
+lista_numero = list()
+
+for i in range(20):
+    num = int(input("Digite um numero positivo ou negativo: "))
+
+    lista_numero.append(num)
+
+for j in range(0, len(lista_numero)):
+    if lista_numero[j] < 0:
+        lista_numero[j] = 0
+
+print(lista_numero)
+~~~
+## Questão 6:
+~~~py
+lista_letras = ['d', 'i', 'a', ' ', 'd', 'e', ' ', 'a', 'u', 'l', 'a']
+
+palavra = ''
+
+for i in lista_letras:
+    palavra += i
+
+print(palavra)
+
+
+print("====================================")
+
+#Caminho inverso
+
+lista_palavra = list()
+
+frase = input("Digite uma frase qualquer: ")
+
+for i in frase:
+    lista_palavra.append(i)
+
+print(lista_palavra)
+~~~
+## Desafio:
+~~~py
+lista1 = [1,  2,  3,  4,  5,  6,  7,  8,  9]
+lista2 = [10, 11, 12, 13, 14, 15, 16, 17, 18]
+lista3 = [19, 20, 21, 22, 23, 24, 25, 26, 27]
+
+lista_final = list()
+
+lista_final += lista1[:3] + lista2[3:6] + lista3[6:]
+
+print(lista_final)
+~~~
 
 https://github.com/GetulioLT/Atividades---l-gica/blob/main/Guias/Python.md
 ## Menu:
