@@ -58,21 +58,17 @@ lista_numerica = list()
 
 contador = 0
 
-for i in range(10):
-    numero = int(input("Digite um numero qualquer: "))
+for i in range(20):
+    num = int(input("Digite um valor qualquer positivo: "))
 
-    lista_numerica.append(numero)
-
-x = int(input("Digite um numero para verificar se exixte na lista: "))
+    lista_numerica.append(num)
 
 for j in lista_numerica:
-    if j == x:
-        print(f"O numero: {x}, está na posição: {contador}")
-        break
-    contador += 1
-else:
-    if x not in lista_numerica:
-        print("Numero não encontrado")
+
+    if j % 2 == 0:
+        contador += 1
+
+print(contador)
 ~~~
 ## Questão 5:
 ~~~py
